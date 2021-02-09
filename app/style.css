@@ -164,7 +164,7 @@ footer a:hover {
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+   {
 
     body {
         line-height: 1.4;
@@ -194,9 +194,9 @@ footer a:hover {
 }
 
 @media only screen 
-  and (min-device-width: 320px) 
+  and (min-device-width: 220px) 
   and (max-device-width: 500px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+   {
     footer p {
         display: none;
     }
@@ -207,7 +207,7 @@ footer a:hover {
 @media only screen 
   and (min-device-width: 500px) 
   and (max-device-width: 920px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+   {
     .bio p {
         font-size: 2.8rem;
     }
@@ -221,7 +221,7 @@ footer a:hover {
 
 @media only screen 
   and (min-device-width: 1520px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
+   {
     .bio p {
         font-size: 2.8rem;
     }
