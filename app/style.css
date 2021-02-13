@@ -193,7 +193,7 @@ footer a:hover {
     }
 }
 
-@media only screen 
+/* @media only screen 
   and (min-device-width: 220px) 
   and (max-device-width: 500px)
    {
@@ -201,11 +201,11 @@ footer a:hover {
         display: none;
     }
   }
-
+ */
 
 
 @media only screen 
-  and (min-device-width: 500px) 
+  and (min-device-width: 480px) 
   and (max-device-width: 920px)
    {
     .bio p {
