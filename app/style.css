@@ -27,7 +27,7 @@ a {
 
 .bio a {
     display: inline-block;
-    color: rgb(19, 14, 14);
+    color: rgb(3, 3, 3);
     transition: all 200ms ease-in-out;
     -webkit-transition: all 200ms ease-in-out;
     -moz-transition: all 200ms ease-in-out;
